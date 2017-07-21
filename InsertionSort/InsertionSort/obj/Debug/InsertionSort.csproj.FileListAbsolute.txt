@@ -1,0 +1,6 @@
+c:\users\ghixson\documents\visual studio 2015\Projects\InsertionSort\InsertionSort\bin\Debug\InsertionSort.exe.config
+c:\users\ghixson\documents\visual studio 2015\Projects\InsertionSort\InsertionSort\bin\Debug\InsertionSort.exe
+c:\users\ghixson\documents\visual studio 2015\Projects\InsertionSort\InsertionSort\bin\Debug\InsertionSort.pdb
+c:\users\ghixson\documents\visual studio 2015\Projects\InsertionSort\InsertionSort\obj\Debug\InsertionSort.csprojResolveAssemblyReference.cache
+c:\users\ghixson\documents\visual studio 2015\Projects\InsertionSort\InsertionSort\obj\Debug\InsertionSort.exe
+c:\users\ghixson\documents\visual studio 2015\Projects\InsertionSort\InsertionSort\obj\Debug\InsertionSort.pdb
