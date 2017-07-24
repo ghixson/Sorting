@@ -1,0 +1,6 @@
+c:\users\ghixson\documents\visual studio 2015\Projects\MergeSort\MergeSort\bin\Debug\MergeSort.exe.config
+c:\users\ghixson\documents\visual studio 2015\Projects\MergeSort\MergeSort\bin\Debug\MergeSort.exe
+c:\users\ghixson\documents\visual studio 2015\Projects\MergeSort\MergeSort\bin\Debug\MergeSort.pdb
+c:\users\ghixson\documents\visual studio 2015\Projects\MergeSort\MergeSort\obj\Debug\MergeSort.csprojResolveAssemblyReference.cache
+c:\users\ghixson\documents\visual studio 2015\Projects\MergeSort\MergeSort\obj\Debug\MergeSort.exe
+c:\users\ghixson\documents\visual studio 2015\Projects\MergeSort\MergeSort\obj\Debug\MergeSort.pdb
